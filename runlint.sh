@@ -1,1 +1,1 @@
-swiftlint lint > report.html
+swiftlint lint
